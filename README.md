@@ -10,6 +10,8 @@ Started my career as systems Engineer with 4 years of experience in IT. Currentl
 * ✉️  You can contact me at [ks.shreyas0@gmail.com](mailto:ks.shreyas0@gmail.com)
 * 🧠  I'm learning Rust and BlockChain Development
 
+<p align="left"> <a href="https://twitter.com/shreyasbhat4" target="blank"><img src="https://img.shields.io/twitter/follow/shreyasbhat4?logo=twitter&style=for-the-badge" alt="shreyasbhat4" /></a> </p>
+
 ### Skills
 
 <p align="left">
@@ -30,7 +32,10 @@ Started my career as systems Engineer with 4 years of experience in IT. Currentl
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/shreyasbhat0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shreyas_s_bhat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shreyas-ks/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9449091/shreyas-k-s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shreyasbhat4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/shreyasbhat0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shreyas_s_bhat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shreyas-ks/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9449091/shreyas-k-s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Shreyasbhat4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://hashnode.com/@themissingsemicolon" target="blank"><img rel="noreferrer" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@themissingsemicolon" height="32" width="32" /></a>
+</p>
+
 
 ### Badges
 
@@ -38,7 +43,7 @@ Started my career as systems Engineer with 4 years of experience in IT. Currentl
 
 <a href="http://www.github.com/shreyasbhat0"><img src="https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreyasbhat0's GitHub stats" /></a>
 
-<a href="http://www.github.com/shreyasbhat0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=dark" alt="shreyasbhat0" /></p>
 
 ### Support Me
 
