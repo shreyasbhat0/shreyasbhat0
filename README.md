@@ -37,6 +37,8 @@ Senior Systems Developer
 </p>
 
 
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -44,6 +46,8 @@ Senior Systems Developer
 <a href="http://www.github.com/shreyasbhat0"><img src="https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreyasbhat0's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=dark" alt="shreyasbhat0" /></p>
+
+![snake gif](https://github.com/shreyasbhat0/shreyasbhat0/blob/output/github-contribution-grid-snake.gif)
 
 ### Support Me
 
