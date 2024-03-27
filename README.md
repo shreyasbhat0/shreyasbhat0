@@ -61,12 +61,7 @@ fn main() {
 
 ### GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <a href="http://www.github.com/shreyasbhat0" style="display: block; text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreyasbhat0's GitHub stats" style="max-height: 200px; object-fit: contain;"/>
-    </a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=dark" alt="shreyasbhat0" style="max-height: 200px; object-fit: contain;"/>
-</div>
+[![shreyasbhat0's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](http://www.github.com/shreyasbhat0) ![shreyasbhat0's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=dark)
 
 <br>
 <div>
