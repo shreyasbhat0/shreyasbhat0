@@ -60,9 +60,13 @@ fn main() {
 
 
 ### GitHub Stats
+![Shreyas Bhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&theme=radical)
 
-![Shreyas Bhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&theme=highcontrast)
-![shreyasbhat0's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=dark)
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=radical" alt="shreyasbhat0" style="max-height: 200px; object-fit: contain;"/>
+
 
 <br>
 <div>
