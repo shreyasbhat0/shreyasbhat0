@@ -66,9 +66,9 @@ fn main() {
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=radical" alt="shreyasbhat0" style="max-height: 200px; object-fit: contain;"/>
-
-
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbhat0&hide_progress=true)
 <div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyasbhat0)](https://github.com/ryo-ma/github-profile-trophy)
