@@ -5,7 +5,6 @@ Hello, folks! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbh
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```rust
-
 struct SeniorSystemsDeveloper {
     name: String,
     role: String,
@@ -14,7 +13,7 @@ struct SeniorSystemsDeveloper {
 
 impl SeniorSystemsDeveloper {
     fn new() -> SeniorSystemsDeveloper {
-        SoftwareEngineer {
+        SeniorSystemsDeveloper {
             name: "Shreyas K S".to_string(),
             role: "Senior Systems Developer".to_string(),
             language_spoken: vec!["English".to_string(), "Kannada".to_string(),"Tamil".to_string(),"Hindi".to_string(),"Malayalam".to_string()],
