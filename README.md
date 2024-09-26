@@ -73,7 +73,3 @@ fn main() {
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyasbhat0)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-### Buy Me A Coffe
-
-<a href="https://www.buymeacoffee.com/ksshreyas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
