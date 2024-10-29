@@ -59,17 +59,23 @@ fn main() {
 
 
 ### GitHub Stats
-![Shreyas Bhat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasbhat0&show_icons=true&theme=radical)
 
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyasbhat0&theme=radical" alt="Summary"></td>
+  </tr>
+</table>
 
-<br>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasbhat0&theme=radical" alt="Repos per language"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasbhat0&theme=radical" alt="Most commit language"></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbhat0&theme=radical" alt="shreyasbhat0" style="max-height: 200px; object-fit: contain;"/>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbhat0&hide_progress=true)
-<div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyasbhat0)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyasbhat0&theme=radical" alt="Stats"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyasbhat0&theme=radical&utcOffset=8" alt="Commit Stats"></td>
+  </tr>
+</table>
