@@ -16,7 +16,13 @@ impl SeniorSystemsDeveloper {
         SeniorSystemsDeveloper {
             name: "Shreyas K S".to_string(),
             role: "Senior Systems Developer".to_string(),
-            language_spoken: vec!["English".to_string(), "Kannada".to_string(),"Tamil".to_string(),"Hindi".to_string(),"Malayalam".to_string()],
+            language_spoken: vec![
+             "English".to_string(),
+             "Kannada".to_string(),
+             "Tamil".to_string(),
+             "Hindi".to_string(),
+             "Malayalam".to_string()
+          ],
         }
     }
 
