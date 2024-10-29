@@ -54,10 +54,6 @@ fn main() {
 [![Gmail Badge](https://img.shields.io/badge/-ks.shreyas0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ks.shreyas0@gmail.com)
 
 
-
-
-
-
 ### GitHub Stats
 
 <table>
@@ -71,9 +67,6 @@ fn main() {
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasbhat0&theme=radical" alt="Repos per language"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasbhat0&theme=radical" alt="Most commit language"></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyasbhat0&theme=radical" alt="Stats"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyasbhat0&theme=radical&utcOffset=8" alt="Commit Stats"></td>
