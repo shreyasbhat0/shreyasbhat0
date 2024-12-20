@@ -4,39 +4,27 @@ Hello, folks! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbh
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyasbhat0.shreyasbhat0)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```rust
-struct SeniorSystemsDeveloper {
-    name: String,
-    role: String,
-    language_spoken: Vec<String>,
-}
 
-impl SeniorSystemsDeveloper {
-    fn new() -> SeniorSystemsDeveloper {
-        SeniorSystemsDeveloper {
-            name: "Shreyas K S".to_string(),
-            role: "Senior Systems Developer".to_string(),
-            language_spoken: vec![
-             "English".to_string(),
-             "Kannada".to_string(),
-             "Tamil".to_string(),
-             "Hindi".to_string(),
-             "Malayalam".to_string()
-          ],
-        }
-    }
+I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting innovative solutions in systems architecture and blockchain.  
 
-    fn say_hi(&self) {
-        println!("Thank you for stopping by, I hope you find some of my projects intriguing.");
-    }
-}
+### 🌟 **What I Do**
+- 🚀 Building **scalable and decentralized systems** for the next generation of web infrastructure  
+- 🔐 Exploring **Decentralized Identity (DID)** and **Verifiable Credentials (VC)** for trust and transparency  
+- 📡 Developing **blockchain clients** to enable seamless interaction with decentralized networks  
+- 🧩 Leveraging **Zero-Knowledge Proofs (ZKPs)** for privacy-preserving computations and scalability in blockchain systems  
+- 🌌 Creating and maintaining **Cosmos SDK-based blockchain applications** for interoperability and modularity  
+- 🕸️ Exploring **Polkadot's Substrate** framework to build secure, scalable, and interoperable parachains  
+- 🛠️ Designing **cross-chain bridges** for seamless communication between heterogeneous blockchain networks  
 
-fn main() {
-    let developer = SeniorSystemsDeveloper::new();
-    developer.say_hi();
-}
 
-```
+### 🗣️ **Languages I Speak**
+- 🇬🇧 **English**  
+- 🇮🇳 **Kannada**, **Tamil**, **Malayalam** and **Hindi**
+
+### 💬 **Why I Code**  
+> “Programming isn’t just about solving problems—it’s about creating opportunities. Let’s connect and build something amazing!”
+
+--- 
 
 **Programming Languages:**
 
