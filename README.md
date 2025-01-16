@@ -1,4 +1,4 @@
-Hello, folks! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbhat0/main/wave.gif" width="30px" height="30px" />
+Hi there! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbhat0/main/wave.gif" width="30px" height="30px" />
 ========================
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shreyasbhat0.shreyasbhat0)
@@ -7,7 +7,7 @@ Hello, folks! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbh
 
 I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting innovative solutions in systems architecture and blockchain.  
 
-### 🌟 **What I Do**
+### 🌟 **Expertise & Focus Areas**
 - 🚀 Building **scalable and decentralized systems** for the next generation of web infrastructure  
 - 🔐 Exploring **Decentralized Identity (DID)** and **Verifiable Credentials (VC)** for trust and transparency  
 - 📡 Developing **blockchain clients** to enable seamless interaction with decentralized networks  
@@ -17,11 +17,11 @@ I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting 
 - 🛠️ Designing **cross-chain bridges** for seamless communication between heterogeneous blockchain networks  
 
 
-### 🗣️ **Languages I Speak**
+### 🌐  **Languages**
 - 🇬🇧 **English**  
 - 🇮🇳 **Kannada**, **Tamil**, **Malayalam** and **Hindi**
 
-### 💬 **Why I Code**  
+### 💡 **Philosophy**  
 > “Programming isn’t just about solving problems—it’s about creating opportunities. Let’s connect and build something amazing!”
 
 --- 
