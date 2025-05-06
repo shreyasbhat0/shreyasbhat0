@@ -59,10 +59,6 @@ I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting 
 <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasbhat0&theme=radical" alt="Repos per language"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyasbhat0&theme=radical" alt="Most commit language"></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyasbhat0&theme=radical" alt="Stats"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyasbhat0&theme=radical&utcOffset=8" alt="Commit Stats"></td>
+     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyasbhat0&theme=radical&utcOffset=8" alt="Commit Stats"></td>
   </tr>
 </table>
