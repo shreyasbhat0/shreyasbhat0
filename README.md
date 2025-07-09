@@ -43,7 +43,6 @@ I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting 
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-shreyas_ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/shreyas-ks/)
-[![Instagram Badge](https://img.shields.io/badge/-shreyas_s_bha-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/shreyas_s_bhat)
 [![Hashnode Badge](https://img.shields.io/badge/-@themissingsemicolon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://hashnode.com/@themissingsemicolon)
 [![Gmail Badge](https://img.shields.io/badge/-ks.shreyas0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ks.shreyas0@gmail.com)
 
@@ -52,13 +51,13 @@ I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting 
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyasbhat0&theme=radical" alt="Summary"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasbhat0&theme=radical" alt="Repos per language"></td>
-     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyasbhat0&theme=radical&utcOffset=8" alt="Commit Stats"></td>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=shreyasbhat0&theme=radical&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" width="410" height="200">
+      </a>
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyasbhat0&theme=radical" alt="Repos per language" width="410" height="200">
+    </td>
   </tr>
 </table>
