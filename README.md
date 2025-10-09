@@ -5,26 +5,13 @@ Hi there! <img src="https://raw.githubusercontent.com/shreyasbhat0/shreyasbhat0/
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting innovative solutions in systems architecture and blockchain.  
+I’m **Shreyas K S**, a **Principal Engineer** crafting innovative solutions in systems architecture and blockchain.
+> “Programming isn’t just about solving problems—it’s about creating opportunities. Let’s connect and build something amazing!”
+--- 
 
-### 🌟 **Expertise & Focus Areas**
-- 🚀 Building **scalable and decentralized systems** for the next generation of web infrastructure  
-- 🔐 Exploring **Decentralized Identity (DID)** and **Verifiable Credentials (VC)** for trust and transparency  
-- 📡 Developing **blockchain clients** to enable seamless interaction with decentralized networks  
-- 🧩 Leveraging **Zero-Knowledge Proofs (ZKPs)** for privacy-preserving computations and scalability in blockchain systems  
-- 🌌 Creating and maintaining **Cosmos SDK-based blockchain applications** for interoperability and modularity  
-- 🕸️ Exploring **Polkadot's Substrate** framework to build secure, scalable, and interoperable parachains  
-- 🛠️ Designing **cross-chain bridges** for seamless communication between heterogeneous blockchain networks  
-
-
-### 🌐  **Languages**
+### 🌐  **I Speak**
 - 🇬🇧 **English**  
 - 🇮🇳 **Kannada**, **Tamil**, **Malayalam** and **Hindi**
-
-### 💡 **Philosophy**  
-> “Programming isn’t just about solving problems—it’s about creating opportunities. Let’s connect and build something amazing!”
-
---- 
 
 **Programming Languages:**
 
@@ -43,8 +30,6 @@ I’m **Shreyas K S**, a **Senior Systems Developer** with a knack for crafting 
 
 ### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-shreyas_ks-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/shreyas-ks/)
-[![Hashnode Badge](https://img.shields.io/badge/-@themissingsemicolon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://hashnode.com/@themissingsemicolon)
-[![Gmail Badge](https://img.shields.io/badge/-ks.shreyas0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ks.shreyas0@gmail.com)
 
 
 ### GitHub Stats
