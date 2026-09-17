@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-still.png">
-    <img src="assets/profile-typing.gif" width="240" height="240" alt="A caricature of Shreyas typing at his laptop, with a thought bubble showing connected nodes and a check mark.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/shrys-workspace-day-night-still.png">
+    <img src="assets/shrys-workspace-day-night.gif" width="400" height="426" alt="Shreyas coding at his desk, winding down to sleep, and returning to work in a day-to-night loop.">
   </picture>
 </p>
 
