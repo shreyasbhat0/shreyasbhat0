@@ -1,6 +1,7 @@
 # Hi, I’m Shreyas.
 
-**I build things. I write to understand.**
+**Built from curiosity.**<br>
+**Written from experience.**
 
 <p align="center">
   <picture>
