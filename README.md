@@ -2,6 +2,13 @@
 
 **I build things. I write to understand.**
 
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-still.png">
+    <img src="assets/profile-typing.gif" width="240" height="240" alt="A caricature of Shreyas typing at his laptop, with a thought bubble showing connected nodes and a check mark.">
+  </picture>
+</p>
+
 I’m a co-founder and software engineer. I lead teams, design systems, and stay
 close to the code, working across Rust libraries, blockchain infrastructure,
 and developer tools.
