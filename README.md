@@ -10,8 +10,8 @@ My work spans Rust libraries, blockchain infrastructure, developer tools, and so
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/shrys-workspace-day-night-v2-still.png">
-    <img src="assets/shrys-workspace-day-night-v2.gif" width="400" height="426" alt="Shreyas coding at his desk, winding down to sleep, and returning to work in a day-to-night loop.">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-still.png">
+    <img src="assets/profile-typing.gif" width="240" height="240" alt="Shreyas typing at his laptop, with a thought bubble showing connected nodes and a check mark.">
   </picture>
 </p>
 
